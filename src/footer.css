@@ -1,0 +1,10 @@
+.Footer{
+  background-color: red;
+}
+ul  {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row-reverse;
+  list-style: none;
+  /*flex-wrap: wrap-reverse;*/
+}
